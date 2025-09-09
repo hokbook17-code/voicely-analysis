@@ -1,4 +1,7 @@
 <html lang="en">
+git add .
+git commit -m "update project"
+git push origin main
 
 <head>
   <title>Notepad - Offline capable</title>
